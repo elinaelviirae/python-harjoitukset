@@ -8,8 +8,8 @@ Nämä pitäs olla ok!
 
 ## Moduuli 2 
 
-Tein tehtävät 1 - 4 ja tekoälyn vinkeillä myös tehtävän 6. 
+Tein tehtävät 1 - 4 ja 6. 
 
-Tehtävää 5 en osannut tehdä ollenkaan, enkä halunnut tekoälyvastausta laittaa koska en sitäkään tajunnut.
+Tehtävää 5 en osannut tehdä ollenkaan, enkä tajunnut tekoälyn tekemää vastausta, joten en halunnut sitä palauttaa.
 
 ## Jatkuu...

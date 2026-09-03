@@ -3,4 +3,4 @@ import math
 sade = float(input("Anna ympyrän säde: "))
 pinta_ala = math.pi * sade ** 2
 
-print("Ympyrän pinta-ala on " + str(pinta_ala))
+print("Ympyrän pinta-ala on: " + str(pinta_ala))
