@@ -4,7 +4,7 @@
 
 ## Moduuli 1 
 
-Nämä pitäs olla ok!
+Nämä pitäs olla ok, mutta en osannut tuota hiton DS_Store-kansiota poistaa täältä Githubista vaikka VS Codessa se ei ole näkyvillä?
 
 ## Moduuli 2 
 
