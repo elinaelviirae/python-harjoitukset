@@ -18,4 +18,4 @@ Tein kaikki tehtävät. Kolmostehtävässä (teh9.) piti hetki säätää, kun e
 
 ## Moduuli 4
 
-Tein tehtävät 1-5. Kolmostehtävässä en tajunnut mitä tarkoitettiin "pitää kirjaa" numeroista? ja nelostehtävässä en tiennyt miten estää tietokonetta vaihtamasta numeroa arvailujen välisssä, mutta koodi toimi silti :-D
+Tein tehtävät 1-5. Kolmostehtävässä en tajunnut mitä tarkoitettiin "pitää kirjaa" numeroista, niin en tiedä teinkö oikein :-D
