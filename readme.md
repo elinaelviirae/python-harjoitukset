@@ -18,4 +18,12 @@ Tein kaikki tehtävät. Kolmostehtävässä (teh9.) piti hetki säätää, kun e
 
 ## Moduuli 4
 
-Tein tehtävät 1-5. Kolmostehtävässä en tajunnut mitä tarkoitettiin "pitää kirjaa" numeroista, niin en tiedä teinkö oikein :-D
+Tein tehtävät 1-5. Kolmostehtävässä en tajunnut mitä tarkoitettiin "pitää kirjaa" numeroista, niin en tiedä teinkö oikein? :D
+
+## Moduuli 5 ja kertaustehtävät
+
+Olen ollut niin kiinni töissä ja toisten opintojen gradun parissa koko lokakuun, etten ehtinyt tekemään näitä ollenkaan.
+
+## Moduuli 6
+
+Pizzatehtävän tehtävänanto laittoi aivot niin solmuun, etten osannut tehdä sitä. 
