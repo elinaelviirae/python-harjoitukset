@@ -27,3 +27,7 @@ Olen ollut niin kiinni töissä ja toisten opintojen gradun parissa koko lokakuu
 ## Moduuli 6
 
 Pizzatehtävän tehtävänanto laittoi aivot niin solmuun, etten osannut tehdä sitä. 
+
+## Moduuli 7
+
+En tiedä olisiko kakkostehtävssä pitänyt määrittää nimet etukäteen, koska nyt ohjelma tunnistaa "nimeksi" minkä tahansa merkkijonon. 
